@@ -1,4 +1,4 @@
-mport os
+Import os
 class Stack:
     def _init_(self, size):
         self.item = []
